@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋, I'm Jose Francisco.
 
-<!--
-**th3mayar-hytech/th3mayar-hytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a Complete Systems Engineering student, passionate programmer; mainly front-end, but occasionally back-end 😁 to complement it. Hytech Nexxo Employee
 
-Here are some ideas to get you started:
+<div style="width:50%;height:0;padding-bottom:56%;position:relative;">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="60px" witdh="100px" height="80px">
+ </div>
+ <br>
+ 
+***
+![](https://komarev.com/ghpvc/?username=th3mayar-hytech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### 📊 My stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Th3Mayar-hytech&theme=dark)](https://git.io/streak-stats)
+
+<br>
+
+![Th3Mayar](https://github-readme-stats.vercel.app/api?username=Th3Mayar-hytech&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Mayar-hytech&layout=compact&theme=dark)
