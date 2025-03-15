@@ -1,0 +1,24 @@
+# Assigns "frontend" label if JavaScript, TypeScript, or Vue files are modified
+frontend:
+  - "**/*.js"  # Matches all JavaScript files
+  - "**/*.ts"  # Matches all TypeScript files
+  - "**/*.vue" # Matches all Vue.js files
+
+# Assigns "style" label if CSS files are modified
+style:
+  - "**/*.css" # Matches all CSS files
+
+# Assigns "backend" label if PHP files are modified
+backend:
+  - "**/*.php" # Matches all PHP files
+
+# Assigns "ci" label if configuration files are modified
+ci:
+  - ".github/workflows/**" # Matches all workflow configuration files
+  - "package.json"         # Matches the package.json file
+  - "composer.json"        # Matches the composer.json file
+  - ".env.example"         # Matches the example environment file
+
+# Assigns "enhancement" label if any file is added or modified
+enhancement:
+  - "**/*" # Matches all files in the repository
