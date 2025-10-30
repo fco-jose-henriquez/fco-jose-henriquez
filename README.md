@@ -8,18 +8,18 @@
  <br>
  
 ***
-![](https://komarev.com/ghpvc/?username=jose-fco-hytech)
+![](https://komarev.com/ghpvc/?username=fco-jose-henriquez)
 
 ***
 
 ### 📊 My stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jose-fco-hytech&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fco-jose-henriquez&theme=dark)](https://git.io/streak-stats)
 
 <br>
 
-![Th3Mayar](https://github-readme-stats.vercel.app/api?username=jose-fco-hytech&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Th3Mayar](https://github-readme-stats.vercel.app/api?username=fco-jose-henriquez&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-fco-hytech&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fco-jose-henriquez&layout=compact&theme=dark)
